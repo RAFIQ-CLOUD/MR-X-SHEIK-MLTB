@@ -151,7 +151,7 @@ if len(SA_MAIL) == 0:
 
 TGH_THUMB = environ.get('TGH_THUMB', '')
 if len(TGH_THUMB) == 0:
-    TGH_THUMB = 'https://te.legra.ph/file/3325f4053e8d68eab07b5.jpg'
+    TGH_THUMB = 'https://telegra.ph/file/016d563273579108d2ef1.jpg'
 
 path = "Thumbnails/"
 if not ospath.isdir(path):
@@ -500,13 +500,13 @@ START_BTN1_NAME = environ.get('START_BTN1_NAME', '')
 START_BTN1_URL = environ.get('START_BTN1_URL', '')
 if len(START_BTN1_NAME) == 0 or len(START_BTN1_URL) == 0:
     START_BTN1_NAME = 'Master'
-    START_BTN1_URL = 'https://t.me/krn_adhikari'
+    START_BTN1_URL = 'https://t.me/MR_X_MIRROR'
 
 START_BTN2_NAME = environ.get('START_BTN2_NAME', '')
 START_BTN2_URL = environ.get('START_BTN2_URL', '')
 if len(START_BTN2_NAME) == 0 or len(START_BTN2_URL) == 0:
-    START_BTN2_NAME = 'Support Group'
-    START_BTN2_URL = 'https://t.me/WeebZone_updates'
+    START_BTN2_NAME = 'REPO'
+    START_BTN2_URL = 'https://t.me/MROTTTamilOffl'
 
 BUTTON_FOUR_NAME = environ.get('BUTTON_FOUR_NAME', '')
 BUTTON_FOUR_URL = environ.get('BUTTON_FOUR_URL', '')
@@ -587,19 +587,19 @@ if len(AUTHOR_NAME) == 0:
 
 AUTHOR_URL = environ.get('AUTHOR_URL', '')
 if len(AUTHOR_URL) == 0:
-    AUTHOR_URL = 'https://t.me/WeebZone_updates'
+    AUTHOR_URL = 'https://t.me/MR_X_MIRROR'
 
 TITLE_NAME = environ.get('TITLE_NAME', '')
 if len(TITLE_NAME) == 0:
-    TITLE_NAME = 'WeebZone'
+    TITLE_NAME = 'MROTTTAMILOFFL'
 
 GD_INFO = environ.get('GD_INFO', '')
 if len(GD_INFO) == 0:
-    GD_INFO = 'Uploaded by WeebZone Mirror Bot'
+    GD_INFO = 'Uploaded by @MROTTTamilOffl'
 
 CREDIT_NAME = environ.get('CREDIT_NAME', '')
 if len(CREDIT_NAME) == 0:
-    CREDIT_NAME = 'WeebZone'
+    CREDIT_NAME = 'MROTTTamilOffl'
 
 NAME_FONT = environ.get('NAME_FONT', '')
 if len(NAME_FONT) == 0:
@@ -624,7 +624,7 @@ if len(MULTI_WORKING_PROGRESS_STR) != 7:
 
 IMAGE_URL = environ.get('IMAGE_URL', '')
 if len(IMAGE_URL) == 0:
-    IMAGE_URL = 'https://graph.org/file/6b22ef7b8a733c5131d3f.jpg'
+    IMAGE_URL = ''
 
 TIMEZONE = environ.get('TIMEZONE', '')
 if len(TIMEZONE) == 0:
@@ -674,7 +674,7 @@ if len(BASE_URL) == 0:
 
 UPSTREAM_REPO = environ.get('UPSTREAM_REPO', '')
 if len(UPSTREAM_REPO) == 0:
-   UPSTREAM_REPO = 'https://github.com/SN-ABDULLAH-AL-NOMAN/SN-MLTB'
+   UPSTREAM_REPO = 'https://github.com/RAFIQ-CLOUD/MR-SN-MLTB'
 
 UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
 if len(UPSTREAM_BRANCH) == 0:
